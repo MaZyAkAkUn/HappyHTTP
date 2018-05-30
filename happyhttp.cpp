@@ -28,7 +28,6 @@
 #include "happyhttp.h"
 
 #ifndef _WIN32
-//	#include <sys/types.h>
 	#include <sys/socket.h>
 	#include <netinet/in.h>
 	#include <arpa/inet.h>
@@ -42,6 +41,7 @@
 #endif
 
 #include <cstdio>
+#include <cstdlib>
 #include <cstring>
 #include <cstdarg>
 #include <assert.h>
