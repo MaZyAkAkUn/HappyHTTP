@@ -1,6 +1,11 @@
 HappyHTTP
 =========
 
+# (2018) - PLEASE DO NOT USE THIS LIBRARY ANYMORE
+I am leaving this source in archived mode to allow anyone still using it to read it. However,
+there are better alternatives to this library in 2018, in terms of security and standards compliance.
+Use this software at your own risk, but I strongly recommend you use something more robust such as cURL or cpprestsdk.
+
 *A simple HTTP library*
  
  Fork of [http://www.scumways.com/happyhttp/happyhttp.html](http://www.scumways.com/happyhttp/happyhttp.html)
